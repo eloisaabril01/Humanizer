@@ -1,0 +1,6 @@
+aiogram
+nltk
+telegraph
+transformers
+torch
+python-docx
